@@ -1,0 +1,28 @@
+{
+  "name": "nodeservices",
+  "version": "1.0.0",
+  "description": "Node Services",
+  "main": "pdf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhalilMohammad/RazorHtmlToPdfDemo.git"
+  },
+  "keywords": [
+    "NodeServices",
+    "NodeJS"
+  ],
+  "author": "KhalilMohammad <khalilmohammadmirza@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KhalilMohammad/RazorHtmlToPdfDemo/issues"
+  },
+  "homepage": "https://github.com/KhalilMohammad/RazorHtmlToPdfDemo#readme",
+  "dependencies": {
+    "jsreport-core": "^1.5.1",
+    "jsreport-jsrender": "^1.0.2",
+    "jsreport-phantom-pdf": "^1.4.6"
+  }
+}
